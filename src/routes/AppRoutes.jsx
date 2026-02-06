@@ -3,7 +3,7 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home";
 import Explore from "../pages/Explore";
 import Profile from "../pages/Profile";
-import SavedItems from "../pages/Saveditems";
+import SavedItems from "../pages/SavedItems";
 import FindFriend from "../pages/FindFriend";
 import Groups from "../pages/Groups";
 import Live from "../pages/Live";
